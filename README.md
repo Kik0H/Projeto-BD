@@ -1,6 +1,6 @@
-# ApolloMuscleEvents — Base de Dados para Competições de Musculação
+# Base de Dados para Competições de Musculação
 
-Projeto de **Bases de Dados**, implementado em **MySQL**. Sistema de gestão completo para competições de musculação (estilo IFBB), cobrindo atletas, inscrições, pesagens, avaliações de júri e patrocinadores.
+Projeto de **Bases de Dados**, implementado em **MySQL**. Sistema de gestão completo para competições de musculação, cobrindo atletas, inscrições, pesagens, avaliações de júri e patrocinadores.
 
 ## Domínio
 
